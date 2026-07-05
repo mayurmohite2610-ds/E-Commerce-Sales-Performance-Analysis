@@ -72,4 +72,4 @@ The project includes SQL queries for:
 
 ## Author
 
-**Mayur Mohite**d
+**Mayur Mohite**
