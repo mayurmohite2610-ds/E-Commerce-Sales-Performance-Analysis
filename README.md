@@ -52,6 +52,19 @@ The dataset contains information such as:
 
 ---
 
+## Project Structure
+
+Dataset/
+Excel/
+Python/
+Report/
+Tableau/
+Screenshots/
+SQL/
+README.md
+LICENSE
+Requirements.txt
+
 ## SQL Analysis
 
 The project includes SQL queries for:
