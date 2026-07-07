@@ -20,11 +20,11 @@ This project analyzes e-commerce sales data using Data Analytics techniques. The
 
 ## Objectives
 
-- Analyze monthly sales.
-- Find top customers.
-- Analyze region-wise sales.
+- Analyze monthly sales trends.
+- Identify top customers.
+- Analyze region-wise sales performance.
 - Identify best-selling products.
-- Create dashboards for visualization.
+- Create interactive dashboards for data visualization.
 
 ---
 
@@ -65,6 +65,33 @@ README.md
 LICENSE
 Requirements.txt
 
+---
+
+## Features
+
+- Data Cleaning
+- Monthly Sales Analysis
+- Region-wise Sales Analysis
+- Product-wise Sales Analysis
+- Top 10 Customers Analysis
+- Dashboard Creation using Excel
+- Dashboard Creation using Tableau
+- SQL Queries for Data Analysis
+
+  ---
+
+  ## Project Screenshots
+
+Screenshots of the analysis and dashboards are available in the **Screenshots** folder.
+
+---
+
+## License
+
+This project is created for educational purposes as part of the Data Analytics Internship Minor Project.
+
+---
+
 ## SQL Analysis
 
 The project includes SQL queries for:
@@ -80,6 +107,12 @@ The project includes SQL queries for:
 
 - Excel Dashboard
 - Tableau Dashboard
+
+---
+
+## Conclusion
+
+This project demonstrates how data analytics techniques can be used to analyze e-commerce sales data and generate meaningful business insights using Python, Oracle SQL, Microsoft Excel, and Tableau.
 
 ---
 
